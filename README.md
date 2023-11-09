@@ -1,3 +1,31 @@
+# プロフィールサイトテンプレート
+
+## 初期設定
+
+1. https://github.com/momoyama-tech/myProfileTemplate このレポジトリをフォークする
+<img width="1318" border="solid 1px" alt="スクリーンショット 2023-11-09 11 25 49" src="https://github.com/momoyama-tech/myProfileTemplate/assets/10124895/a1b6141d-3c36-494a-8e3e-abc3748178a1">
+<img width="715" border="solid 1px" alt="スクリーンショット 2023-11-09 11 26 17" src="https://github.com/momoyama-tech/myProfileTemplate/assets/10124895/cdb3750d-1369-4212-ba3b-752b6c92f81c">
+
+2. フォーク先で、Settingを押す
+<img width="832" border="solid 1px" alt="スクリーンショット 2023-11-09 11 26 43" src="https://github.com/momoyama-tech/myProfileTemplate/assets/10124895/433fbc47-9a8c-470f-92bd-3a08441b0483">
+
+3. 左メニューのPagesを押す
+<img width="722" border="solid 1px" alt="スクリーンショット 2023-11-09 11 26 53" src="https://github.com/momoyama-tech/myProfileTemplate/assets/10124895/6cbcef7f-1db9-4ea7-ae85-56c98f67b3b0">
+
+4. 真ん中のSourceのプルダウンを開いて、GitHub Actions(Beta)を選択する
+<img width="702" border="solid 1px" alt="スクリーンショット 2023-11-09 11 27 56" src="https://github.com/momoyama-tech/myProfileTemplate/assets/10124895/c97781b7-d8db-4b6e-acf1-80bb8436ff22">
+
+5. Actionsを押す
+<img width="855" border="solid 1px" alt="スクリーンショット 2023-11-09 11 28 39" src="https://github.com/momoyama-tech/myProfileTemplate/assets/10124895/e03555fc-d740-417c-979c-b99e69f70c8f">
+
+6. 緑のボタンを押す(フォークしたからワークフローの設定をしなければいけない)
+<img width="733" border="solid 1px" alt="スクリーンショット 2023-11-09 11 28 48" src="https://github.com/momoyama-tech/myProfileTemplate/assets/10124895/56bd2657-2aa8-4a61-b3b6-7f8f98c20ad6">
+
+7. 左メニューから Deploy GitHub Pageを押して、右の Run workflowを押して緑のボタンを押す
+<img width="1419" border="solid 1px" alt="スクリーンショット 2023-11-09 11 29 09" src="https://github.com/momoyama-tech/myProfileTemplate/assets/10124895/19e7dff8-798f-40f5-b085-f874c5c3010c">
+
+8. しばらく待って、https://{自分のGitHubアカウント名}.github.io/myProfileTemplate/ でアクセスできるか見る
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
